@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="GUI\fAdminMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\fDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\fDiemDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\fGiangVienDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\fLopHocDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\fMonHocDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\fQuanLyDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\fQuanLyGiangVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\fQuanLyLopHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\fQuanLyMonHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\fQuanLySV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\fSinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\fSinhVienDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
